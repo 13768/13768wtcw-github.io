@@ -311,7 +311,7 @@ a:hover, a:visited, a:active {
 
 /*About page contents*/
 .aboutInfo {
-	background: url("../images/azukara.JPG");
+	background: url("../images/azukara.jpg");
 	width: 100%;
 	background-size: cover;
 	height: 100vh;
